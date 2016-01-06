@@ -3,6 +3,83 @@ This XBlock allows students to recognize their voice and can see the what they s
 
 It supports multiple languages. This version works only on Google Chrome.
 
+## Supported languages ##
+    Afrikaans
+    Bahasa Indonesia
+    Bahasa Melayu
+    Català
+    Čeština
+    Dansk
+    Deutsch
+    Australia
+    Canada
+    English - India
+    English - New Zealand
+    English - South Africa
+    English - United Kingdom
+    English - United States
+    Bolivia
+    Argentina
+    Chile
+    Colombia
+    Costa
+    Ecuador
+    España
+    Estados
+    Guatemala
+    Honduras
+    México
+    Nicaragua
+    Panamá
+    Paraguay
+    Perú
+    Puerto
+    República
+    Uruguay
+    Venezuela
+    Euskara
+    Filipino
+    Français
+    Galego
+    हिन्दी
+    Hrvatski
+    IsiZulu
+    Íslenska
+    Italiano
+    Italia
+    Svizzera
+    Lietuvių
+    Magyar
+    Nederlands
+    Norsk
+    Polski
+    Português
+    Brasil
+    Portugal
+    Română
+    Slovenščina
+    Slovenčina
+    Suomi
+    Svenska
+    Tiếng
+    ภาษาไทย
+    Türkçe
+    Ελληνικά
+    български
+    Pусский
+    Српски
+    Українська
+    한국어
+    普通话 
+    普通话 
+    中文 
+    粵語 
+
+## Features ##
+  1. Supports Multiple Languages
+  2. Assesment and grading support
+
+
 ## Installation instructions ##
 In order to install the XBlock into your Open edX devstack Server you need to:
 
