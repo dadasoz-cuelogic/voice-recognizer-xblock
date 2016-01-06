@@ -115,6 +115,6 @@ In order to install the XBlock into your Open edX devstack Server you need to:
 
         #. Log in to Studio, and open your course
         #. Settings -> Advanced Settings
-        #. Change the value for the key ``"advanced_modules"`` to ``voicerecognizer``
+        #. Add 'voicerecognizer' into "Advanced Module List"
 
 
